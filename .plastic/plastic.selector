@@ -1,0 +1,4 @@
+repository "fuck you@imLunah@cloud"
+  path "/"
+    br "/main"
+    co "/main"
